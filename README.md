@@ -1,18 +1,25 @@
+
 # class6
 class6 repository for COMP8860
 
 This repository contains the following Java classes:
 
-TODO: add list of classes, etc.
+PoorCode.html
+Tester.java
+UnitTester.java
+Utul2.java
+Utilities.js
+Variety.js
 
 This repository also contains the following JavaScript files:
 
-TODO: add list of js stuff
+Utilities.js
+Variety.js
 
 Java methods can be tested in:
-
-TODO: decide where
+JUnit Testing
 
 JavaScript functions can be tested in
+Unit Testing
 
-TODO: decide where
+
